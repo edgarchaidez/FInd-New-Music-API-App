@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+}
+
+.App p {
+  width: 60%;
+}
+
+.AppBody {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(13px + 1.3vmin);
+  color: white;
+}
+
+.form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+@media (max-width: 400px) {
+  .form {
+    width: 90%;
+  }
+}

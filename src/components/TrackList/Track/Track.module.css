@@ -1,0 +1,23 @@
+.Track {
+    margin-bottom: 100px;
+}
+
+.Track h1 {
+    margin-bottom: 0;
+    margin-top: 10px;
+}
+
+.Track h2 {
+    margin-top: 0;
+}
+
+.TrackLink {
+    /*color: #61dafb;*/
+    color: #1DB954;
+    font-size: calc(11px + 1vmin);
+}
+
+.Track img {
+    width: 20%;
+    height: 100%;
+}
